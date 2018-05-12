@@ -1,0 +1,41 @@
+_repo: A-Thousand-Francs-Rewardand-Military-Sketches_43730
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Kendall, Laura E.
+    gutenberg_agent_id: '5113'
+    url: http://www.gutenberg.org/2009/agents/5113
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gaboriau, Emile
+    alias: Gaboriau, Émile
+    birthdate: 1832
+    deathdate: 1873
+    gutenberg_agent_id: '172'
+    url: http://www.gutenberg.org/2009/agents/172
+    wikipedia:
+    - http://fr.wikipedia.org/wiki/%C3%89mile_Gaboriau
+    - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
+description: 'A thousand francs reward / by Emile Gaboriau -- Military sketches /
+  by Emile Gaboriau -- Carmen: the power of love / by Prosper Merimee.'
+gutenberg_issued: '2013-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43730'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'France. Armée -- Military life'
+- !lcc 'PQ'
+- !lcsh 'French fiction -- Translations into English'
+tableOfContents: 'A thousand francs reward -- Military sketches: The cantinière. The
+  barber of the squadron. The vaguemestre. The zouave. The fantassin, or foot-soldier.
+  The soldier of the light infantry.'
+title: A Thousand Francs Reward; and, Military Sketches
+url: http://www.gutenberg.org/ebooks/43730
