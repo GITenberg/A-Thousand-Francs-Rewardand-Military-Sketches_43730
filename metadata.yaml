@@ -21,6 +21,8 @@ creator:
     - http://en.wikipedia.org/wiki/%C3%89mile_Gaboriau
 description: 'A thousand francs reward / by Emile Gaboriau -- Military sketches /
   by Emile Gaboriau -- Carmen: the power of love / by Prosper Merimee.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43730#A-Thousand-Francs-Rewardand-Military-Sketches
 gutenberg_issued: '2013-09-15'
 gutenberg_type: Text
 identifiers:
