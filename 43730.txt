@@ -14,6 +14,7 @@ Author: Emile Gaboriau
 Translator: Laura E. Kendall
 
 Release Date: September 15, 2013 [EBook #43730]
+Last Updated: June 1, 2915
 
 Language: English
 
@@ -74,7 +75,7 @@ The public becomes excited, and prudent people buy sword-canes.
 Policemen hear absurd reports, and shrug their shoulders. They know the
 wrong side of the carefully embroidered canvas. They investigate, and
 find, instead of artless falsehoods, the truth; instead of romances,
-sorrowful fol stories. Yet, up to a certain point, the grocer of the Rue
+sorrowful stories. Yet, up to a certain point, the grocer of the Rue
 Saint Louis told the truth.
 
 M. Jandidier, manufacturer of imitation jewelry, had not been at home
@@ -84,7 +85,7 @@ M. Theodore Jandidier was a man fifty-eight years old, very stout and
 very bald, who had made a large fortune in business. He was supposed
 to have a considerable income from stocks and bonds, and his business
 brought him annually, on an average, fifty thousand francs. He was
-be-loved and respected in his neighborhood, and justly so; his honesty
+beloved and respected in his neighborhood, and justly so; his honesty
 was above suspicion, his morality rigid. Married late in life to a
 penniless relative, he had made her perfectly happy. He had an only
 daughter, a pretty, graceful girl, named Therese, whom he worshiped. She
@@ -99,7 +100,7 @@ Notified by public rumor, which hourly exaggerated the story, the
 commissary of police went to the home of the man already called "the
 victim," to obtain more exact information.
 
-He found Mme. and Mile. Jandidier in such terrible grief that it was
+He found Mme. and Mlle. Jandidier in such terrible grief that it was
 with great difficulty he gleaned the truth. At last he learned the
 following details:
 
@@ -117,7 +118,7 @@ And he had not been seen since!
 
 After carefully noting these particulars, the commissary requested Mme.
 Jandidier to let him speak with her alone a few minutes. She made a sign
-of assent, and Mile. Therese left the room.
+of assent, and Mlle. Therese left the room.
 
 "Pardon the question I am about to ask, madame," said the police
 officer. "Do you know whether your husband--again I beg you to excuse
@@ -150,7 +151,7 @@ anxious, and began to suspect that a crime had been committed.
 That very evening one of the most skillful members of the detective
 force, Retiveau, better known in the Rue de Jerusalem under the name
 of Maitre Magloire, was put on M. Jandidier's track, supplied with an
-excellent photograph of the merchant
+excellent photograph of the merchant.
 
 
 
@@ -277,7 +278,7 @@ detect anything suspicious, and the policemen were about to withdraw,
 when the detective noticed Tarot's wife glance anxiously at a cage hung
 in the window.
 
-This was a ray of light. In less than an instant Ma-gloire had unhooked
+This was a ray of light. In less than an instant Magloire had unhooked
 and taken down the cage. Between the boards, at the bottom, twelve
 hundred-franc bank-bills were found.
 
@@ -350,7 +351,7 @@ appeared, pale and panting for breath.
 
 Magloire shook his head mournfully.
 
-"I'm a fool," said he, "and Lecoq has just proved it Monsieur Jandidier
+"I'm a fool," said he, "and Lecoq has just proved it. Monsieur Jandidier
 talked about life insurance policies at the Cafe Ture. That was the key
 to the whole matter. Jandidier was insured for 200,000 francs, and the
 companies, in France, never pay in case of suicide; do you understand?"
@@ -360,7 +361,7 @@ companies, in France, never pay in case of suicide; do you understand?"
 
 V.
 
-Thanks to M. Gustave Schmidt, who will marry Mile. Therese Jandidier
+Thanks to M. Gustave Schmidt, who will marry Mlle. Therese Jandidier
 next month, the Maison Jandidier did not fail.
 
 Tarot and his wife, on being restored to liberty, were set up in
@@ -377,7 +378,7 @@ MILITARY SKETCHES.
 
 
 
-THE CANRTINNIERE.
+THE CANTINIERE.
 
 She may be young or old, dazzlingly pretty or frightfully ugly; in this
 case looks make no difference, she is ever and always the same. If there
@@ -393,7 +394,7 @@ cask on her back. Every one knows her traditional jacket, coquettish
 short skirt, trousers with scarlet stripes, and her fantastic boots.
 
 It is certainly a pretty sight to see her when the drum beats, leading
-the way, and keeping time to the step, of the soldiers.
+the way, and keeping time to the step of the soldiers.
 
 But the drum is not always beating, fortunately! glory and noise do
 not suffice to fill the stomach, so on her return to the quarters, the
@@ -402,7 +403,7 @@ costume, that is, a skirt and drees, and bestows her attention upon the
 thousand details connected with her establishment.
 
 The cantine is not what the civilian generally supposes; it is at once
-a restaurant, wiNe-shop, cafe, beer-shop, and boarding-house. It is here
+a restaurant, wine-shop, cafe, beer-shop, and boarding-house. It is here
 that the soldier--and sometimes the officer--takes his morning dram;
 the volunteer spends here a portion of the money sent him by his family;
 hussars afflicted with a hearty appetite find here a cheap supplement to
@@ -525,8 +526,7 @@ ordinance, he is the one upon whom the blame will fall. The
 regulation is there; he must follow it to the letter, and shave his
 companions-in-arms as closely as possible, and not unfrequently against
 their will; for there are troopers who cling to their hair--
-
-the natural ornament of man. The military gallant Would love to wear
+the natural ornament of man. The military gallant would love to wear
 long hair, probably so a loving hand could caress his curls; but the
 regulations are pitiless.
 
@@ -677,7 +677,7 @@ so the vaguemestre hurries away. On returning, he must stop to see a
 captain who has sent for him; besides, the colonel has intrusted him
 with a letter to be delivered to a lieutenant who lives at the very end
 of the town. What a nuisance! He rushes to the place, but does not find
-the lieutenant The letter is important; the lieutenant must be at the
+the lieutenant. The letter is important; the lieutenant must be at the
 _cafe_--lieutenants are always at the _cafe_--at least, when they are
 not at breakfast. The vaguemestre visits the _cafe_, no lieutenant; at
 last, he finds him at his boarding-house and delivers the letter.
@@ -708,36 +708,39 @@ the vaguemestre if they desire what is due them."
 This call is so well understood that the soldiers respond promptly, and
 without hesitation, whereupon colloquies of this kind ensue:
 
-The Vaguemestre. Private Demanet, you have received twelve francs.
+THE VAGUEMESTRE. Private Demanet, you have received twelve francs.
 
-Private Demanet. Yes, lieutenant Vaguemestre. Private Demanet, your
+PRIVATE DEMANET. Yes, lieutenant Vaguemestre. Private Demanet, your
 outfit is not yet paid for; you are credited with only eleven francs,
 which is a deplorable state of things. You must devote your twelve
 francs to this purpose.
 
-Private Demaret. I entreat you, lieutenant--Vaguemestre. Well, then,
+PRIVATE DEMARET. I entreat you, lieutenant--Vaguemestre. Well, then,
 here are a hundred sous. I will keep back only seven francs. Make out a
-receipt example second.
+receipt.
 
-Vaguemestre. Private Oastagnol, you have received fifty francs.
+EXAMPLE SECOND.
 
-Private Oastagnol. Yes, lieutenant Vaguemestre. Your parents seem to
+VAGUEMESTRE. Private Castagnol, you have received fifty francs.
+
+PRIVATE CASTAGNOL. Yes, lieutenant Vaguemestre. Your parents seem to
 have more money than they know what to do with.
 
-Private Castagnol. Lieutenant, my family--Vaguemestre. Ah! I remember,
-you are a volunteer. Very well, you may go.
+PRIVATE CASTAGNOL. Lieutenant, my family--
 
-Private Castagnol. But my money?
+VAGUEMESTRE. Ah! I remember, you are a volunteer. Very well, you may go.
 
-Vaguemestre. You have eight days in the guard-house to make. Next
+PRIVATE CASTAGNOL. But my money?
+
+VAGUEMESTRE. You have eight days in the guard-house to make. Next
 Sunday, if you are not punished in the meantime, you shall have your
 money.
 
-Private Oastagkol. But--
+PRIVATE CASTAGNOL. But--
 
-Vaguemestre. No remarks.
+VAGUEMESTRE. No remarks.
 
-Private Castagnol (_turning angrily away_). I shall tell my friends to
+PRIVATE CASTAGNOL (_turning angrily away_). I shall tell my friends to
 send bank-notes next time.
 
 The vaguemestre being usually an adjutant, the soldiers address him as
